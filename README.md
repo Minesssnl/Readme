@@ -1,1 +1,1 @@
-# Readme
+# Sesli blog sayfası
